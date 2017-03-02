@@ -1,1 +1,1 @@
-# CHESSAI
+# ChessAI
